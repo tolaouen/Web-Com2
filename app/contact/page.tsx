@@ -112,7 +112,7 @@ export default function ContactPage() {
                 repeat: Infinity,
                 repeatType: "reverse",
               }}
-              className="text-primary"
+              className="text-primary font-bold lg:text-[30px] md:text-[25px] sm:text-[20px] text-[15px]"
             >
               You Can
             </motion.h1>
@@ -125,7 +125,7 @@ export default function ContactPage() {
                 repeat: Infinity,
                 repeatType: "reverse",
               }}
-              className="text-secondary"
+              className="text-secondary font-bold lg:text-[30px] md:text-[25px] sm:text-[20px] text-[15px]"
             >
               Us From
             </motion.h1>
@@ -138,7 +138,7 @@ export default function ContactPage() {
                 repeat: Infinity,
                 repeatType: "reverse",
               }}
-              className="text-success"
+              className="text-success font-bold lg:text-[30px] md:text-[25px] sm:text-[20px] text-[15px]"
             >
               Any App
             </motion.h1>
