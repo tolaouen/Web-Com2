@@ -89,7 +89,7 @@ export const Navbar = () => {
           >
             Log In
           </Button>
-          <Modal isOpen={isOpen} onOpenChange={onOpenChange} size="2xl">
+          <Modal isOpen={isOpen} onOpenChange={onOpenChange} size="2xl" className="mb-[50px]">
               <ModalContent>
                   <ModalBody>
                     <div className="flex flex-col gap-5 justify-center items-center">
